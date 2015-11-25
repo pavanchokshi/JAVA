@@ -3,7 +3,7 @@ package string;
 /**
  * @File : AnagramsChecker.java
  * @Description : it checks if two words are anagrams of each other or not
- * @author Pavan
+ * @author Pavan Chokshi
  * 
  */
 public class AnagramsChecker {
